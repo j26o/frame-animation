@@ -189,7 +189,7 @@
 		},
 				
 		destroy : function() {
-			return this;
+			return _this;
 		}
 	};
 		
